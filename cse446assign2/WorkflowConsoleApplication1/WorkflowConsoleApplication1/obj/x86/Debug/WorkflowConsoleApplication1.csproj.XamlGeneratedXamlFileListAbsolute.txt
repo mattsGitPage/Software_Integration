@@ -1,0 +1,8 @@
+obj\x86\Debug\Workflow1.g.xaml
+obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.IService.Encrypt.g.xaml
+obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.IService.Decrypt.g.xaml
+obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference2.IService123.addToAccount.g.xaml
+obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_BeforeInitializeComponentHelper.txt
+obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.Activities_Encrypt_BeforeInitializeComponentHelper.txt
+obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.Activities_Decrypt_BeforeInitializeComponentHelper.txt
+obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference2.Activities_addToAccount_BeforeInitializeComponentHelper.txt

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace= "/"
+            xmlns:ps ="scheme.xsd"
+            elementFormDefault="qualified" >
+  
+  <!--top node persons-->
+  <xsd:element name="database">
+    <xsd:complexType>
+      <xsd:sequence>
+        <!-- child is person and it can have one to many instances-->
+        <xsd:element name="user" minOccurs="1" maxOccurs="unbounded"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+  <!--second node with name credential phone and category childern-->
+  <xsd:element name="user">
+    <xsd:complexType>
+      <xsd:sequence>
+        <!--list the children under person define the type and occurances and atributtes -->
+        <xsd:element name="senderID"  minOccurs="1" maxOccurs="1"/>
+        <xsd:element name="recieverID"  minOccurs="1" maxOccurs="1"/>
+        <xsd:element name="timeStamp"  minOccurs="1" maxOccurs="1"/>
+        <xsd:element name="message"  minOccurs="1" maxOccurs="1"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+  <!--define the subcategories of name first and last-->
+  <xsd:element name="senderID">
+    <xsd:complexType>
+      <xsd:sequence>
+        <!--define the children of name first and last and specify the type-->
+        <xsd:element name="sendName" type="xsd:string"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+  <!--define the next child credential which has two children and a required attribute-->
+  <xsd:element name="recieverID">
+    <xsd:complexType>
+      <xsd:sequence>
+        <!--credential has two children and a required attribute all of type string-->
+        <xsd:element name="recieveName" type="xsd:string" >
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+  <!--define the next child credential which has two children and a required attribute-->
+  <xsd:element name="timeStamp">
+    <xsd:complexType>
+      <xsd:sequence>
+        <!--credential has two children and a required attribute all of type string-->
+        <xsd:element name="time" type="xsd:string" >
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+  <!--define the next child credential which has two children and a required attribute-->
+  <xsd:element name="message">
+    <xsd:complexType>
+      <xsd:sequence>
+        <!--credential has two children and a required attribute all of type string-->
+        <xsd:element name="text" type="xsd:string" >
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+
+</xsd:schema>

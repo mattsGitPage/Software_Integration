@@ -1,0 +1,2 @@
+WorkflowConsoleApplication1.ServiceReference2.IService123.addToAccount.g.xaml
+XamlStaticHelperNamespace._XamlStaticHelper

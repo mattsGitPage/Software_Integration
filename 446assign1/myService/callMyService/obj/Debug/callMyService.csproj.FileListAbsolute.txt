@@ -1,0 +1,6 @@
+C:\Users\matthew dunning\Documents\Visual Studio 2015\Projects\myService\callMyService\bin\Debug\callMyService.exe.config
+C:\Users\matthew dunning\Documents\Visual Studio 2015\Projects\myService\callMyService\bin\Debug\callMyService.exe
+C:\Users\matthew dunning\Documents\Visual Studio 2015\Projects\myService\callMyService\bin\Debug\callMyService.pdb
+C:\Users\matthew dunning\Documents\Visual Studio 2015\Projects\myService\callMyService\obj\Debug\callMyService.csprojResolveAssemblyReference.cache
+C:\Users\matthew dunning\Documents\Visual Studio 2015\Projects\myService\callMyService\obj\Debug\callMyService.exe
+C:\Users\matthew dunning\Documents\Visual Studio 2015\Projects\myService\callMyService\obj\Debug\callMyService.pdb

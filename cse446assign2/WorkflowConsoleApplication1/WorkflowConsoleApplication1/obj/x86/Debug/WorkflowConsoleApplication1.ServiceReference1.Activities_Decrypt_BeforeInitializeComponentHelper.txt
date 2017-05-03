@@ -1,0 +1,2 @@
+WorkflowConsoleApplication1.ServiceReference1.IService.Decrypt.g.xaml
+XamlStaticHelperNamespace._XamlStaticHelper

@@ -1,0 +1,145 @@
+CourseId,CourseCode,Title,Units,Dates,Days,Start,End,Location,GS,Instructor,domain,office,email
+72647,CPI 101,Introduction to Informatics,3,08/18 - 12/02(C) ,T Th ,1:30 PM,2:45 PM,Tempe - PSH153,CS  ,Atkinson,asu.edu,812,Atkinson@asu.edu
+73404,CPI 111 (LEL),Game Development I,3,08/18 - 12/02(C) ,M W F ,12:55 PM,1:45 PM,Tempe - CDN60,CS  ,Nelson,asu.edu,793,Nelson@asu.edu
+73402,CPI 211 (LEL),Game Development II,3,08/18 - 12/02(C) ,M W ,3:05 PM,4:20 PM,Tempe - BYENGM1-11, ,Kobayashi,asu.edu,657,Kobayashi@asu.edu
+83870,CPI 220 (LEL),App Data Struct and Algorithms,3,08/18 - 12/02(C) ,T Th ,3:00 PM,4:15 PM,Tempe - ECAA219, ,Selgrad,asu.edu,321,Selgrad@asu.edu
+75138,CPI 310,Web Information Mgt System,3,08/18 - 12/02(C) ,M W ,4:35 PM,5:50 PM,Tempe - DISCVRY350, ,Selgrad,asu.edu,648,Selgrad@asu.edu
+73403,CPI 311 (LEL),Game Engine Development,3,08/18 - 12/02(C) ,T Th ,4:30 PM,5:45 PM,Tempe - BYENGM1-11, ,Kobayashi,asu.edu,445,Kobayashi@asu.edu
+76266,CPI 360,Decision Making & Problem Solv,3,08/18 - 12/02(C) ,T Th ,6:00 PM,7:15 PM,Tempe - CPCOM212, ,VanLehn,asu.edu,975,VanLehn@asu.edu
+74688,CPI 421 (LEL),3-D Modeling and Texturing,3,08/18 - 12/02(C) ,M W ,4:35 PM,5:50 PM,Tempe - BYENGM1-11, ,Kobayashi,asu.edu,720,Kobayashi@asu.edu
+91441,CPI 460,Intelligent Interact Inst Sys,3,08/18 - 12/02(C) ,T Th ,10:30 AM,11:45 AM,Tempe - BYAC270, ,VanLehn,asu.edu,622,VanLehn@asu.edu
+11621,CSE 100,Prin of Programming with C++,3,01/11 - 04/29(C) ,T Th ,1:30 PM,2:45 PM,Tempe - PSF166,CS  ,Brigade,asu.edu,451,Brigade@asu.edu
+15604,CSE 100,Prin of Programming with C++,3,01/11 - 04/29(C) ,M W F ,10:30 AM,11:20 AM,Tempe - PSH152,CS  ,Burger,asu.edu,826,Burger@asu.edu
+80027,CSE 110,Principles of Programming,3,08/18 - 12/02(C) ,M W F ,10:45 AM,11:35 AM,Tempe - PSF166,CS  ,Feng,asu.edu,210,Feng@asu.edu
+11627,CSE 110,Principles of Programming,3,01/11 - 04/29(C) ,M W F ,9:00 AM,9:50 AM,Tempe - COOR170,CS  ,Balasooriya,asu.edu,772,Balasooriya@asu.edu
+21420,CSE 110,Principles of Programming,3,01/11 - 04/29(C) ,M W F ,3:00 PM,3:50 PM,Tempe - NEEB105,CS  ,Tadayon-Navabi,asu.edu,591,Tadayon-Navabi@asu.edu
+70782,CSE 120,Digital Design Fundamentals,3,08/18 - 12/02(C) ,M W ,3:05 PM,4:20 PM,Tempe - ECGG224, ,Goryll,asu.edu,743,Goryll@asu.edu
+18959,CSE 120,Digital Design Fundamentals,3,01/11 - 04/29(C) ,T Th ,3:00 PM,4:15 PM,Tempe - ECGG224, ,Chickamenahalli,asu.edu,424,Chickamenahalli@asu.edu
+11658,CSE 205,Object-Oriented Program & Data,3,01/11 - 04/29(C) ,M W F ,10:30 AM,11:20 AM,Tempe - WGHL101,CS  ,Feng,asu.edu,557,Feng@asu.edu
+11754,CSE 205,Object-Oriented Program & Data,3,01/11 - 04/29(C) ,T Th ,4:30 PM,5:45 PM,Tempe - PSH153,CS  ,Nakamura,asu.edu,154,Nakamura@asu.edu
+11768,CSE 205,Object-Oriented Program & Data,3,01/11 - 04/29(C) ,T Th ,10:30 AM,11:45 AM,Tempe - DISCVRY250,CS  ,Nakamura,asu.edu,740,Nakamura@asu.edu
+13947,CSE 205,Object-Oriented Program & Data,3,01/11 - 04/29(C) ,M W F ,9:00 AM,9:50 AM,Tempe - CAVC351,CS  ,Tadayon-Navabi,asu.edu,571,Tadayon-Navabi@asu.edu
+21428,CSE 205,Object-Oriented Program & Data,3,01/11 - 04/29(C) ,M W F ,12:00 PM,12:50 PM,Tempe - CAVC351,CS  ,Tadayon-Navabi,asu.edu,692,Tadayon-Navabi@asu.edu
+20374,CSE 205,Object-Oriented Program & Data,3,01/11 - 04/29(C) ,T Th ,3:00 PM,4:15 PM,Tempe - CAVC351,CS  ,Grover,asu.edu,467,Grover@asu.edu
+11711,CSE 220,Programming for Computer Engr,3,01/11 - 04/29(C) ,T Th ,10:30 AM,11:45 AM,Tempe - CAVC351, ,Wang,asu.edu,423,Wang@asu.edu
+11609,CSE 230,Computer Org/Assemb Lang Prog,3,01/11 - 04/29(C) ,M W F ,1:30 PM,2:20 PM,Tempe - MUR101, ,Burger,asu.edu,292,Burger@asu.edu
+19291,CSE 230,Computer Org/Assemb Lang Prog,3,01/11 - 04/29(C) ,M W F ,12:00 PM,12:50 PM,Tempe - COOR170, ,Calliss,asu.edu,148,Calliss@asu.edu
+11659,CSE 240,Intro to Programming Languages,3,01/11 - 04/29(C) ,M W F ,10:30 AM,11:20 AM,Tempe - EDC117, ,Grover,asu.edu,730,Grover@asu.edu
+15572,CSE 240,Intro to Programming Languages,3,01/11 - 04/29(C) ,T Th ,4:30 PM,5:45 PM,Tempe - WGHL101, ,Chen,asu.edu,623,Chen@asu.edu
+29679,CSE 294,Topic: Logic in Computer Science,3,01/11 - 04/29(C) ,T Th ,10:30 AM,11:45 AM,Tempe - SCOB150, ,Lee,asu.edu,228,Lee@asu.edu
+29683,CSE 294,Topic: Algorithmic Problem Solving,3,01/11 - 04/29(C) ,M W ,4:30 PM,5:45 PM,Tempe - BYENG361, ,Burger,asu.edu,518,Burger@asu.edu
+11641,CSE 301,Computing Ethics,1,01/11 - 04/29(C) , , , ,iCourse, ,Brigade,asu.edu,569,Brigade@asu.edu
+12297,CSE 310,Data Structures and Algorithms,3,01/11 - 04/29(C) ,T Th ,6:00 PM,7:15 PM,Tempe - PSH151, ,Nakamura,asu.edu,812,Nakamura@asu.edu
+19369,CSE 310,Data Structures and Algorithms,3,01/11 - 04/29(C) ,T Th ,12:00 PM,1:15 PM,Tempe - SCOB228, ,Syrotiuk,asu.edu,522,Syrotiuk@asu.edu
+11673,CSE 320,Design/Syn Digital Hardware,3,01/11 - 04/29(C) ,T Th ,4:30 PM,5:45 PM,Tempe - BYAC270, ,Vrudhula,asu.edu,696,Vrudhula@asu.edu
+29097,CSE 325,Embedded Microprocessor System,3,01/11 - 04/29(C) ,M W F ,9:00 AM,9:50 AM,Tempe - ART220, ,Shrivastava,asu.edu,272,Shrivastava@asu.edu
+11731,CSE 340,Principles of Programming Lang,3,01/11 - 04/29(C) ,M W F ,10:30 AM,11:20 AM,Tempe - LSE104, ,Bazzi,asu.edu,109,Bazzi@asu.edu
+16266,CSE 340,Principles of Programming Lang,3,01/11 - 04/29(C) ,M W F ,9:00 AM,9:50 AM,Tempe - COOR174, ,Doupe,asu.edu,625,Doupe@asu.edu
+16880,CSE 355,Intro Theoretical Computer Sci,3,01/11 - 04/29(C) ,T Th ,7:30 AM,8:45 AM,Tempe - NEEB105, ,Colbourn,asu.edu,807,Colbourn@asu.edu
+11712,CSE 360,Intro to Software Engineering,3,01/11 - 04/29(C) ,M W F ,1:30 PM,2:20 PM,Tempe - COOR170, ,Calliss,asu.edu,264,Calliss@asu.edu
+24284,CSE 394,Topic: Principles of Mobile Application,3,01/11 - 04/29(C) ,T Th ,1:30 PM,2:45 PM,Tempe - COOR199, ,Balasooriya,asu.edu,147,Balasooriya@asu.edu
+11667,CSE 420,Computer Architecture I,3,01/11 - 04/29(C) ,M W F ,10:30 AM,11:20 AM,Tempe - COORL1-74, ,Shrivastava,asu.edu,950,Shrivastava@asu.edu
+11668,CSE 430,Operating Systems,3,01/11 - 04/29(C) ,T Th ,4:30 PM,5:45 PM,Tempe - SCOB228, ,Banerjee,asu.edu,603,Banerjee@asu.edu
+14364,CSE 430,Operating Systems,3,01/11 - 04/29(C) ,M W F ,12:00 PM,12:50 PM,Tempe - PSH153, ,Zhao,asu.edu,581,Zhao@asu.edu
+11616,CSE 434,Computer Networks,3,01/11 - 04/29(C) ,T Th ,7:30 AM,8:45 AM,Tempe - CAVC351, ,Syrotiuk,asu.edu,889,Syrotiuk@asu.edu
+30187,CSE 438,Embedded Systems Programming,3,01/11 - 04/29(C) ,T Th ,9:00 AM,10:15 AM,Tempe - BYAC260,L  ,Meuth,asu.edu,682,Meuth@asu.edu
+11746,CSE 445,Distributed Software Developmt,3,01/11 - 04/29(C) ,M W F ,12:00 PM,12:50 PM,Tempe - COOR174, ,Balasooriya,asu.edu,120,Balasooriya@asu.edu
+16882,CSE 446,Software Integration and Engr,3,01/11 - 04/29(C) ,T Th ,12:00 PM,1:15 PM,Tempe - COOR184, ,Chen,asu.edu,909,Chen@asu.edu
+12298,CSE 460,Software Analysis and Design,3,01/11 - 04/29(C) ,M W ,3:00 PM,4:15 PM,Tempe - COORL1-20, ,Sarjoughian,asu.edu,553,Sarjoughian@asu.edu
+16246,CSE 463,Intro Human Computer Interactn,3,01/11 - 04/29(C) ,M W ,4:30 PM,5:45 PM,Tempe - CDN60, ,Atkinson,asu.edu,225,Atkinson@asu.edu
+16908,CSE 469,Computer and Network Forensics,3,01/11 - 04/29(C) ,T Th ,3:00 PM,4:15 PM,Tempe - BYAC110, ,Ahn,asu.edu,981,Ahn@asu.edu
+14426,CSE 471,Intro Artificial Intelligence,3,01/11 - 04/29(C) ,T Th ,4:30 PM,5:45 PM,Tempe - DISCVRY150, ,Baral,asu.edu,347,Baral@asu.edu
+12338,CSE 477,Intro Computer-Aided Geom Desg,3,01/11 - 04/29(C) ,T Th ,4:30 PM,5:45 PM,Tempe - COORL1-20, ,Hansford,asu.edu,705,Hansford@asu.edu
+14434,CSE 484 (PRA),Topic: Department,3,01/11 - 04/29(C) , , , ,Tempe - TBA, ,Feng,asu.edu,494,Feng@asu.edu
+85174,CSE 494,Topic: Introduction to Data Mining,3,08/18 - 12/02(C) ,T Th ,7:30 AM,8:45 AM,Tempe - CAVC351, ,Maciejewski,asu.edu,107,Maciejewski@asu.edu
+92433,CSE 494,Topic: Interactive Robotics,3,08/18 - 12/02(C) ,M W ,9:40 AM,10:55 AM,Tempe - COORL1-74, ,Ben Amor,asu.edu,998,Ben Amor@asu.edu
+29256,CSE 494,Topic: Software Design,3,01/11 - 04/29(C) ,T Th ,4:30 PM,5:45 PM,Tempe - CAVC351, ,Calliss,asu.edu,574,Calliss@asu.edu
+29669,CSE 494,Topic: Mobile Application Development,3,01/11 - 04/29(C) ,T Th ,3:00 PM,4:15 PM,Tempe - BYENGM1-11, ,Lindquist,asu.edu,271,Lindquist@asu.edu
+29759,CSE 494,Topic: Cryptographic Algorithms and Protocols,3,01/11 - 04/29(C) ,M W F ,1:30 PM,2:20 PM,Tempe - CAVC351, ,Bazzi,asu.edu,485,Bazzi@asu.edu
+30362,CSE 494,Topic: Data Mining,3,01/11 - 04/29(C) ,T Th ,6:00 PM,7:15 PM,Tempe - CAVC351, ,Calliss,asu.edu,567,Calliss@asu.edu
+30392,CSE 494,Topic: Technologies for Online Learning Communities,3,01/11 - 04/29(C) ,M W F ,9:00 AM,9:50 AM,Tempe - COOR120, ,Walker,asu.edu,958,Walker@asu.edu
+30544,CSE 494,Topic: Principles of Heterogeneous Software System Model,3,01/11 - 04/29(C) ,M W ,12:00 PM,1:15 PM,Tempe - BYENG510, ,Sarjoughian,asu.edu,730,Sarjoughian@asu.edu
+30545,CSE 494,Topic: Usable Privacy and Security,3,01/11 - 04/29(C) ,M W F ,9:00 AM,9:50 AM,Tempe - BYAC110, ,Bazzi,asu.edu,324,Bazzi@asu.edu
+30548,CSE 494,Topic: Foundations of Algorithms,3,01/11 - 04/29(C) ,M W F ,4:30 PM,5:20 PM,Tempe - COOR170, ,Sen,asu.edu,133,Sen@asu.edu
+30549,CSE 494,Topic: Advanced Memory Systems,3,01/11 - 04/29(C) ,M W F ,7:30 AM,8:20 AM,Tempe - BYAC110, ,Zhao,asu.edu,614,Zhao@asu.edu
+30550,CSE 494,Topic: Adaptive Web,3,01/11 - 04/29(C) ,M W ,1:30 PM,2:45 PM,Tempe - CAVC359, ,Hsiao,asu.edu,176,Hsiao@asu.edu
+30551,CSE 494,Topic: Advances in Databases,3,01/11 - 04/29(C) ,T Th ,1:30 PM,2:45 PM,Tempe - CAVC359, ,Sarwat,asu.edu,489,Sarwat@asu.edu
+30552,CSE 494,Topic: Assistive Technologies,3,01/11 - 04/29(C) ,T ,9:00 AM,12:00 PM,Tempe - BYENG361, ,McDaniel,asu.edu,206,McDaniel@asu.edu
+31277,CSE 494,Topic: Information Retrieval; Mining; and Integration,3,01/11 - 04/29(C) ,F ,12:15 PM,2:45 PM,Tempe - BYAC240, ,Manikonda,asu.edu,455,Manikonda@asu.edu
+14367,CSE 510,Database Mgmt Sys Implementn,3,01/11 - 04/29(C) ,T Th ,3:00 PM,4:15 PM,Tempe - PSH150, ,Papotti,asu.edu,499,Papotti@asu.edu
+30757,CSE 535,Mobile Computing,3,01/11 - 04/29(C) ,M W ,4:30 PM,5:45 PM,Tempe - WGHL101, ,Banerjee,asu.edu,470,Banerjee@asu.edu
+17661,CSE 536,Advanced Operating Systems,3,01/11 - 04/29(C) ,T Th ,3:00 PM,4:15 PM,Tempe - BYAC260, ,Gupta,asu.edu,823,Gupta@asu.edu
+20602,CSE 539,Applied Cryptography,3,01/11 - 04/29(C) ,T Th ,3:00 PM,4:15 PM,Tempe - LL2, ,Dasgupta,asu.edu,460,Dasgupta@asu.edu
+12299,CSE 543,Info Assurance & Security,3,01/11 - 04/29(C) ,M W ,4:30 PM,5:45 PM,Tempe - COOR174, ,Yau,asu.edu,579,Yau@asu.edu
+29072,CSE 545,Software Security,3,01/11 - 04/29(C) ,M W F ,10:30 AM,11:20 AM,Tempe - CAVC351, ,Doupe,asu.edu,682,Doupe@asu.edu
+29074,CSE 548,Adv Computer Network Security,3,01/11 - 04/29(C) ,T Th ,9:00 AM,10:15 AM,Tempe - SCOB152, ,Huang,asu.edu,560,Huang@asu.edu
+29641,CSE 555,Theory of Computation,3,01/11 - 04/29(C) ,F ,7:30 AM,10:00 AM,Tempe - BYAC270, ,Colbourn,asu.edu,329,Colbourn@asu.edu
+19754,CSE 564,Software Design,3,01/11 - 04/29(C) ,T Th ,4:30 PM,5:45 PM,Tempe - CAVC351, ,Calliss,asu.edu,991,Calliss@asu.edu
+11761,CSE 566,Software Proj/Process/Qual Mgt,3,01/11 - 04/29(C) ,M W ,9:00 AM,10:15 AM,Tempe - BYAC210, ,Collofello,asu.edu,951,Collofello@asu.edu
+12339,CSE 572,Data Mining,3,01/11 - 04/29(C) ,T Th ,6:00 PM,7:15 PM,Tempe - CAVC351, ,Calliss,asu.edu,799,Calliss@asu.edu
+29960,CSE 575,Statistical Machine Learning,3,01/11 - 04/29(C) ,F ,12:00 PM,3:00 PM,Tempe - ART220, ,Tong,asu.edu,156,Tong@asu.edu
+23716,CSE 577,Advanced Geometric Modeling I,3,01/11 - 04/29(C) ,T Th ,3:00 PM,4:15 PM,Tempe - BYAC270, ,Hansford,asu.edu,252,Hansford@asu.edu
+14365,CSE 591,Topic: Technologies for Online Learning Communities,3,01/11 - 04/29(C) ,M W F ,9:00 AM,9:50 AM,Tempe - COOR120, ,Walker,asu.edu,931,Walker@asu.edu
+28962,CSE 591,Topic: Principles of Heterogeneous Software System Model,3,01/11 - 04/29(C) ,M W ,12:00 PM,1:15 PM,Tempe - BYENG510, ,Sarjoughian,asu.edu,452,Sarjoughian@asu.edu
+16107,CSE 591,Topic: Usable Privacy and Security,3,01/11 - 04/29(C) ,M W F ,9:00 AM,9:50 AM,Tempe - BYAC110, ,Bazzi,asu.edu,837,Bazzi@asu.edu
+21430,CSE 591,Topic: Foundations of Algorithms,3,01/11 - 04/29(C) ,M W F ,4:30 PM,5:20 PM,Tempe - COOR170, ,Sen,asu.edu,427,Sen@asu.edu
+20597,CSE 591,Topic: Human Comp Inter and Human Factors in Biomedicine,3,01/11 - 04/29(C) ,W ,9:00 AM,11:45 AM,Tempe - BYENG361, ,Kaufman,asu.edu,344,Kaufman@asu.edu
+20743,CSE 591,Topic: Advanced Memory Systems,3,01/11 - 04/29(C) ,M W F ,7:30 AM,8:20 AM,Tempe - BYAC110, ,Zhao,asu.edu,585,Zhao@asu.edu
+22388,CSE 591,Topic: Adaptive Web,3,01/11 - 04/29(C) ,M W ,1:30 PM,2:45 PM,Tempe - CAVC359, ,Hsiao,asu.edu,137,Hsiao@asu.edu
+22826,CSE 591,Topic: Advances in Databases,3,01/11 - 04/29(C) ,T Th ,1:30 PM,2:45 PM,Tempe - CAVC359, ,Sarwat,asu.edu,778,Sarwat@asu.edu
+24881,CSE 591,Topic: Cyber-Physical Systems: Modeli,3,01/11 - 04/29(C) ,M W ,10:30 AM,11:45 AM,Tempe - BYENGM1-09, ,Fainekos,asu.edu,309,Fainekos@asu.edu
+29999,CSE 591,Topic: Assistive Technologies,3,01/11 - 04/29(C) ,T ,9:00 AM,12:00 PM,Tempe - BYENG361, ,McDaniel,asu.edu,990,McDaniel@asu.edu
+31186,CSE 591,Topic: Image Analytics & Informatics,3,01/11 - 04/29(C) ,F ,10:30 AM,1:45 PM,Tempe - BYENGM1-09, ,Liang,asu.edu,792,Liang@asu.edu
+15729,CSE 598,Topic: Information Retrieval; Mining; and Integration,3,01/11 - 04/29(C) ,F ,12:15 PM,2:45 PM,Tempe - BYAC240, ,Manikonda,asu.edu,169,Manikonda@asu.edu
+15749,CSE 598,Topic: Computational Humanities Rsrch/Softw Development,3,01/11 - 04/29(C) ,W ,9:00 AM,11:30 AM,Tempe - BYAC240, ,Laubichler,asu.edu,607,Laubichler@asu.edu
+27635,FSE 100,Introduction to Engineering,2,01/11 - 04/29(C) ,F ,9:00 AM,9:50 AM,Tempe - BYENG210, ,Chen,asu.edu,709,Chen@asu.edu
+83218,FSE 100,Introduction to Engineering,2,08/18 - 12/02(C) ,Th ,3:00 PM,3:50 PM,Tempe - BYAC240, ,Meuth,asu.edu,860,Meuth@asu.edu
+82455,FSE 150,Grand Challenges for Engrg,3,08/18 - 12/02(C) ,F ,9:00 AM,11:50 AM,Poly - ENGR101,SB  ,Trowbridge,asu.edu,105,Trowbridge@asu.edu
+79345,FSE 181,Tech; Social; & Sustain System,3,08/18 - 12/02(C) ,M ,4:50 PM,7:35 PM,Tempe - PSF173,HU  ,Allenby,asu.edu,339,Allenby@asu.edu
+90190,FSE 194,Topic: Exploring Leadership Potential,1,08/18 - 10/07(A) ,F ,12:55 PM,1:45 PM,Poly - ENGR101, ,Silva,asu.edu,564,Silva@asu.edu
+87876,FSE 301,Entrepreneur & Value Creation,3,08/18 - 12/02(C) ,M W F ,2:00 PM,2:50 PM,Poly - PRLTA207, ,Troness,asu.edu,103,Troness@asu.edu
+85759,FSE 394,Topic: Academic Success and Professional Development,2,08/18 - 12/02(C) , ,12:00 AM,12:00 AM,Tempe - TBA, ,Anderson-Rowland,asu.edu,899,Anderson-Rowland@asu.edu
+92378,FSE 502,Strategic Enterprise Innovatin,3,08/18 - 12/02(C) ,M ,6:00 PM,8:45 PM,Tempe - BYAC220, ,Trappen,asu.edu,481,Trappen@asu.edu
+71307,IEE 210,Intro Industrial Engineering,3,08/18 - 12/02(C) ,T Th ,9:00 AM,10:15 AM,Tempe - DISCVRY250, ,Clough,asu.edu,468,Clough@asu.edu
+73291,IEE 220,Business/Industrial Engr,3,08/18 - 12/02(C) ,M W ,4:35 PM,5:50 PM,Tempe - PSF166, ,Fleischner,asu.edu,208,Fleischner@asu.edu
+71308,IEE 300,Economic Analys for Engineers,3,08/18 - 12/02(C) ,T Th ,3:00 PM,4:15 PM,Tempe - PSH152, ,Jennings,asu.edu,704,Jennings@asu.edu
+71310,IEE 376,Oper Rsrch Det Tech/Apps,3,08/18 - 12/02(C) ,T Th ,1:30 PM,2:45 PM,Tempe - CAVC351, ,Mirchandani,asu.edu,822,Mirchandani@asu.edu
+77308,IEE 380,Prob & Stats Engr Prob Solving,3,08/18 - 12/02(C) ,T Th ,4:30 PM,5:45 PM,Tempe - MUR201,CS  ,Chattin,asu.edu,317,Chattin@asu.edu
+87728,IEE 380,Prob & Stats Engr Prob Solving,3,08/18 - 12/02(C) ,T Th ,6:00 PM,7:15 PM,Tempe - MUR201,CS  ,Bren,asu.edu,194,Bren@asu.edu
+80376,IEE 385,Engr Statistics - Probability,3,08/18 - 12/02(C) ,T Th ,6:00 PM,7:15 PM,Tempe - BYAC110, ,Chattin,asu.edu,711,Chattin@asu.edu
+78677,IEE 394,Topic: Extreme Excel,1,08/18 - 10/07(A) , , , ,iCourse, ,McCarville,asu.edu,633,McCarville@asu.edu
+80379,IEE 412,Intro to Financial Engineering,3,08/18 - 12/02(C) ,M W ,10:45 AM,12:00 PM,Tempe - BYENGM1-11, ,McCarville,asu.edu,656,McCarville@asu.edu
+91345,IEE 426,Operations Rrsch in Healthcare,3,08/18 - 12/02(C) ,M W ,4:35 PM,5:50 PM,Tempe - LSE106, ,Wu,asu.edu,950,Wu@asu.edu
+91929,IEE 431,Engineering Administration,3,08/18 - 10/07(A) , , , ,iCourse,L  ,Jennings,asu.edu,592,Jennings@asu.edu
+71311,IEE 437,Human Factors Engineering,3,08/18 - 12/02(C) ,M W ,6:00 PM,7:15 PM,Tempe - BYAC270, ,Parry,asu.edu,439,Parry@asu.edu
+77730,IEE 454,Risk Management,3,08/18 - 12/02(C) ,T Th ,4:30 PM,5:45 PM,Tempe - LL2, ,McCarville,asu.edu,918,McCarville@asu.edu
+77813,IEE 461,Production Control,3,08/18 - 12/02(C) ,M W ,3:05 PM,4:20 PM,Tempe - CAVC359, ,Chattin,asu.edu,938,Chattin@asu.edu
+72508,IEE 470,Stochastic Operations Research,3,08/18 - 12/02(C) ,M W F ,2:00 PM,2:50 PM,Tempe - COORL1-74, ,Ju,asu.edu,172,Ju@asu.edu
+74270,IEE 474,Quality Control,3,08/18 - 12/02(C) ,M W F ,9:40 AM,10:30 AM,Tempe - WGHL101, ,Li,asu.edu,576,Li@asu.edu
+91213,IEE 506,Web-Enabled Decn Support Systs,3,08/18 - 12/02(C) ,T Th ,1:30 PM,2:45 PM,Tempe - COORL1-10, ,Ye,asu.edu,798,Ye@asu.edu
+75531,IEE 511,Analysis of Decision Processes,3,08/18 - 12/02(C) ,T Th ,6:00 PM,7:15 PM,Tempe - BYAC270, ,Mirchandani,asu.edu,345,Mirchandani@asu.edu
+91879,IEE 512,Intro to Financial Engineering,3,08/18 - 12/02(C) ,M W ,10:45 AM,12:00 PM,Tempe - BYENGM1-11, ,McCarville,asu.edu,621,McCarville@asu.edu
+72692,IEE 520,Stat Learning for Data Mining,3,08/18 - 12/02(C) ,T Th ,4:30 PM,5:45 PM,Tempe - CAVC351, ,Runger,asu.edu,654,Runger@asu.edu
+91346,IEE 526,Operations Rrsch in Healthcare,3,08/18 - 12/02(C) ,M W ,4:35 PM,5:50 PM,Tempe - LSE106, ,Wu,asu.edu,821,Wu@asu.edu
+91992,IEE 545,Simulating Stochastic Systems,3,08/18 - 12/02(C) ,M W ,3:05 PM,4:20 PM,Tempe - BYAC270, ,Staff,asu.edu,850,Staff@asu.edu
+71313,IEE 547,Human Factors Engineering,3,08/18 - 12/02(C) ,M W ,6:00 PM,7:15 PM,Tempe - BYAC270, ,Parry,asu.edu,243,Parry@asu.edu
+92066,IEE 571,Quality Management,3,08/18 - 12/02(C) ,T Th ,12:00 PM,1:15 PM,Tempe - BYAC210, ,Jennings,asu.edu,412,Jennings@asu.edu
+75775,IEE 572,Design Engineering Experiments,3,08/18 - 12/02(C) ,T Th ,9:00 AM,10:15 AM,Tempe - SS105, ,Montgomery,asu.edu,543,Montgomery@asu.edu
+91770,IEE 573,Reliability Engineering,3,08/18 - 12/02(C) ,M W ,9:00 AM,10:15 AM,Tempe - BYAC210, ,Pan,asu.edu,306,Pan@asu.edu
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+ ,,,,,,,,,,,,,
+ ,,,,,,,,,,,,,
+ ,,,,,,,,,,,,,

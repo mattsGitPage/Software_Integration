@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<this:GetData this:EndpointConfigurationName="BasicHttpBinding_IService123" mva:VisualBasic.Settings="Assembly references and imported namespaces serialized as XML namespaces" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:p="http://tempuri.org/" xmlns:p1="http://schemas.microsoft.com/netfx/2009/xaml/servicemodel" xmlns:sads="http://schemas.microsoft.com/netfx/2010/xaml/activities/debugger" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:sc="clr-namespace:System.ComponentModel;assembly=System" xmlns:this="clr-namespace:WorkflowConsoleApplication1.ServiceReference2.Activities;assembly=WorkflowConsoleApplication1" xmlns:ws="clr-namespace:WorkflowConsoleApplication1.ServiceReference2;assembly=WorkflowConsoleApplication1, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" xmlns:ws1="clr-namespace:WorkflowConsoleApplication1.ServiceReference2;assembly=WorkflowConsoleApplication1" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <this:GetData.Implementation>
+    <Sequence>
+      <Sequence.Variables>
+        <x:Reference>__ReferenceID1</x:Reference>
+        <x:Reference>__ReferenceID2</x:Reference>
+      </Sequence.Variables>
+      <p1:Send x:Name="__ReferenceID0" Action="http://tempuri.org/IService123/GetData" OperationName="GetData" ServiceContractName="p:IService123">
+        <p1:Send.CorrelationInitializers>
+          <p1:RequestReplyCorrelationInitializer>
+            <p1:RequestReplyCorrelationInitializer.CorrelationHandle>
+              <InArgument x:TypeArguments="p1:CorrelationHandle">
+                <VariableValue x:TypeArguments="p1:CorrelationHandle">
+                  <VariableValue.Variable>
+                    <Variable x:TypeArguments="p1:CorrelationHandle" x:Name="__ReferenceID2" />
+                  </VariableValue.Variable>
+                </VariableValue>
+              </InArgument>
+            </p1:RequestReplyCorrelationInitializer.CorrelationHandle>
+          </p1:RequestReplyCorrelationInitializer>
+        </p1:Send.CorrelationInitializers>
+        <p1:SendMessageContent>
+          <InArgument x:TypeArguments="ws1:GetDataRequest">[New WorkflowConsoleApplication1.ServiceReference2.GetDataRequest() With { .value = value }]</InArgument>
+        </p1:SendMessageContent>
+        <p1:Send.EndpointConfigurationName>
+          <PropertyReference x:TypeArguments="x:String" PropertyName="EndpointConfigurationName" />
+        </p1:Send.EndpointConfigurationName>
+      </p1:Send>
+      <p1:ReceiveReply Request="{x:Reference __ReferenceID0}" Action="http://tempuri.org/IService123/GetDataResponse">
+        <p1:ReceiveMessageContent>
+          <OutArgument x:TypeArguments="ws1:GetDataResponse">
+            <VariableReference x:TypeArguments="ws1:GetDataResponse">
+              <VariableReference.Variable>
+                <Variable x:TypeArguments="ws1:GetDataResponse" x:Name="__ReferenceID1" Name="tempResult_81f1ba932b414047aa74d1c61d30d21a" />
+              </VariableReference.Variable>
+            </VariableReference>
+          </OutArgument>
+        </p1:ReceiveMessageContent>
+      </p1:ReceiveReply>
+      <Assign>
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:String">[GetDataResult]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:String">[tempResult_81f1ba932b414047aa74d1c61d30d21a.GetDataResult]</InArgument>
+        </Assign.Value>
+      </Assign>
+      <sads:DebugSymbol.Symbol>d+IBQzpcVXNlcnNcbWF0dGhldyBkdW5uaW5nXERvY3VtZW50c1xWaXN1YWwgU3R1ZGlvIDIwMTVcUHJvamVjdHNcV29ya2Zsb3dDb25zb2xlQXBwbGljYXRpb24xXFdvcmtmbG93Q29uc29sZUFwcGxpY2F0aW9uMVxTZXJ2aWNlIFJlZmVyZW5jZXNcU2VydmljZVJlZmVyZW5jZTJcV29ya2Zsb3dDb25zb2xlQXBwbGljYXRpb24xLlNlcnZpY2VSZWZlcmVuY2UyLklTZXJ2aWNlMTIzLkdldERhdGEueGFtbAkgA04OAgEBJQU5DwIBCjoFRBcCAQdFBUwOAgECNDo0lgECAQwqDy4fAgELPQtBHwIBCUowSmsCAQVHMUdAAgED</sads:DebugSymbol.Symbol>
+    </Sequence>
+  </this:GetData.Implementation>
+</this:GetData>

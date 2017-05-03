@@ -1,0 +1,6 @@
+c:\users\matthew dunning\documents\visual studio 2015\Projects\myService\myService\bin\Debug\myService.dll.config
+c:\users\matthew dunning\documents\visual studio 2015\Projects\myService\myService\bin\Debug\myService.dll
+c:\users\matthew dunning\documents\visual studio 2015\Projects\myService\myService\bin\Debug\myService.pdb
+c:\users\matthew dunning\documents\visual studio 2015\Projects\myService\myService\obj\Debug\myService.csprojResolveAssemblyReference.cache
+c:\users\matthew dunning\documents\visual studio 2015\Projects\myService\myService\obj\Debug\myService.dll
+c:\users\matthew dunning\documents\visual studio 2015\Projects\myService\myService\obj\Debug\myService.pdb
